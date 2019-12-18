@@ -1,0 +1,22 @@
+*.pyc
+*~
+__pycache__
+myvenv
+ppr_env
+db.sqlite3
+.DS_Store
+.vscode/
+/Dockerfile1
+aws/local_docker
+
+# Config file
+config_ppr.py
+.vscodelaterimportant.py
+
+local.py
+.idea/
+.coverage
+cover/
+.coveragerc
+__pycache__/
+*.pyc
